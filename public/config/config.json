@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xA549eA365673f0C9A1235f3Bd5F98a247F06136F",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa549ea365673f0c9a1235f3bd5f98a247f06136f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "bDAO Writers Guild",
+  "SYMBOL": "BDWG",
+  "MAX_SUPPLY": 0,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/banklessdao-writers-guild-v2",
+  "SHOW_BACKGROUND": true
+}
